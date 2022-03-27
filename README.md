@@ -12,7 +12,7 @@ https://cdn.discordapp.com/attachments/786618525652746240/957751882711973928/202
 - swap <yourchannelname> for the channel you want to monitor
 - run yarn dev / npm run dev [ use the localhost url as a browser source on twitch, watch the messages be monitored ]
 
-*** some things you can do to customize your experience. ***
+*some things you can do to customize your experience.*
   > on line 75 `className="animate__animated animate__backInDown"`
   this is an animatecss class, you can use that to modify the transitions.
 
