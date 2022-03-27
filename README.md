@@ -10,7 +10,7 @@ https://cdn.discordapp.com/attachments/786618525652746240/957751882711973928/202
 - navigate to the main directory, npm install or yarn (this is a yarn package originally)
 - navigate to pages -> index.tsx -> find the variables TWITCH_AUTH_PW -> go to the link , and save the code returned as auth pw.
 - swap <yourchannelname> for the channel you want to monitor
-- run yarn dev / npm run dev [ use the localhost url as a browser source on twitch, watch the messages be monitored'
+- run yarn dev / npm run dev [ use the localhost url as a browser source on twitch, watch the messages be monitored ]
 
 some things you can do to customize your experience.
 on line 75 `className="animate__animated animate__backInDown"`
