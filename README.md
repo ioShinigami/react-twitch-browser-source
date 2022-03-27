@@ -19,4 +19,5 @@ https://cdn.discordapp.com/attachments/786618525652746240/957751882711973928/202
   >on line 79 ` icon={<Avatar radius="xl">MK</Avatar>} `
     the uikit that provides the themeing and component platform is mantine found here https://mantine.dev/others/notifications/
   so free customization over the notification themselves.
-    >dont like dark mode? line 95 `<MantineProvider theme={{ colorScheme: "dark" }}>` 
+    
+  >dont like dark mode? line 95 `<MantineProvider theme={{ colorScheme: "dark" }}>` 
